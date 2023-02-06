@@ -15,3 +15,6 @@ Project 3 - Shipping Costs - shipping.py
     This project has helped understand the flow in programming.
     This is a more complicated project than project 2.
     Additions made to also print out lowest price option as well as different options. 
+
+Project 4 - Mad Libs Generator - madLibs.py
+    This project has developed my learning of how concatenation works in Python. This project will continue to be developed adding in more features as I learn them. 
